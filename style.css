@@ -279,6 +279,7 @@ footer .linhaDois a:hover {
     /* section */
     
     section h1 {
+        
         font-size: 38px;
     }
 
@@ -294,5 +295,16 @@ footer .linhaDois a:hover {
     
     .checkbox-itens label {
         font-size: 17px;
+    }
+
+    /* footer (rodapé) */
+
+    footer .linhaUm {
+        flex-direction: column;
+    }
+
+    footer .endereço {
+        width: 95%;
+        margin-bottom: 20px;
     }
 }
